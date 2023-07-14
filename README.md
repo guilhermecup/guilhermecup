@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning basics of programming (HTML, CSS, Javascript, NodeJS, SQL ...)
+- 💻 I'm currently looking for my first job
+
 <!--
 **guilhermecup/guilhermecup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
